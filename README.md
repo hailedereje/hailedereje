@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hailedereje" alt="hailedereje" /></a> </p>
 
-- 🔭 I’m currently working on [Moe website (Laravel and React js)](https://github.com/hailedereje/moe-journal-api)
+- 🔭 I’m currently working on [Dinner Asp.net with DDD and Clean Architecture)](https://github.com/hailedereje/Dinner)
 
 - 🌱 I’m currently learning **Nextjs and DotNet core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hailedereje](https://github.com/hailedereje)
 
-- 💬 Ask me about **React js , Next js , Golang, DotNet Core, and Django**
+- 💬 Ask me about **React js , Next js , Golang, AspDotNet Core, and Django , Nodejs**
 
 - 📫 How to reach me **hailedereje11@gmail.com**
 
