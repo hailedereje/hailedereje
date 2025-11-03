@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hailedereje" alt="hailedereje" /></a> </p>
 
-- 🔭 I’m currently working on Golang backend
+- 🔭 I’m currently working on
+- Golang Game engine for start up company based in USA using sockets and message brokers
+- Merchant Cash Advance system based in USA using microservice architecture currently working on 3 services
 
 - 🌱 I’m also  proficient in **Nextjs and DotNet core**
 
