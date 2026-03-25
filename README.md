@@ -9,7 +9,7 @@
 - Golang Game engine for start up company based in USA using sockets and message brokers
 - Merchant Cash Advance system based in USA using microservice architecture currently working on 3 services
 
-- 🌱 I’m also  proficient in **Nextjs and DotNet core**
+- 🌱 I’m also  proficient in **Nextjs, Golang, and DotNet core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hailedereje](https://github.com/hailedereje)
 
