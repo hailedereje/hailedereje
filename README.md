@@ -1,88 +1,50 @@
 <h1 align="center">Haile Dereje</h1>
-<h3 align="center">Backend-Focused Full Stack Engineer • Go • Distributed Systems • Microservices</h3>
+<h3 align="center">Go Backend Engineer • I make servers behave</h3>
 
 <p align="center">
-Building scalable backend systems, real-time architectures, and production-grade applications.
+Turning coffee ☕ into scalable systems since day 1
 </p>
 
 ---
 
 ### 🚀 What I Do
-- Design and build **high-performance backend systems in Go**
-- Architect **microservices with messaging, queues, and event-driven patterns**
-- Develop **real-time systems (sockets, brokers, concurrency-heavy apps)**
-- Ship **production-ready web apps with Next.js & React**
+- Build **fast, scalable backends (Go)**
+- Design **microservices that don’t cry in production**
+- Real-time systems (sockets, queues, chaos included)
 
 ---
 
-### 💼 Current Work
-- **Game Engine (Go)**  
-  Real-time multiplayer architecture using sockets + message brokers
-
-- **Merchant Cash Advance Platform (USA)**  
-  Microservices system (3+ services) handling financial workflows & integrations
+### 🧠 Stack
+`Go` `Next.js` `React` `Node` `.NET` `Django`  
+Microservices • WebSockets • Distributed Systems
 
 ---
 
-### 🧠 Core Stack
-**Backend**
-- Go (primary)
-- Node.js
-- ASP.NET Core
-- Django
-
-**Frontend**
-- Next.js
-- React
-
-**Architecture**
-- Microservices
-- Event-driven systems
-- REST & WebSockets
-- Distributed systems
+### 💼 Now
+- 🎮 Game Engine (real-time, Go)
+- 💰 Fintech Microservices (USA)
 
 ---
 
-### ⚡ Strengths
-- Clean, scalable backend architecture
-- High-concurrency systems (Go routines, channels)
-- Production-focused mindset (not just demos)
-- Fast execution + clear communication
+### 📫 Reach Me
+**hailedereje88@gmail.com**  
+https://linkedin.com/in/hailedereje
 
 ---
 
-### 📫 Contact
-- Email: **hailedereje88@gmail.com**
-- LinkedIn: https://linkedin.com/in/hailedereje
-
+### ⚡ Fun Fact
+```go
+if(codeWorks){
+    dontTouch()
+}
+```
 ---
 
-### 🧩 Selected Projects
-- 🔹 Real-time Game Engine (Go, Sockets, Messaging)
-- 🔹 Financial Microservices Platform (Production)
-- 🔹 Full Stack SaaS Apps (Next.js + Go APIs)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hailedereje&show_icons=true&hide_border=true" /> </p>
 
 ---
+### Best Choice + Success Rate: 92%
 
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hailedereje&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hailedereje&layout=compact&hide_border=true" />
-</p>
-
----
-
-### 🧭 Positioning
-> I build backend systems that scale, not just apps that run.
-
----
-
-### 🔥 Availability
-Open to **freelance, contract, and backend-heavy projects**
-
----
-
-**Best Choice + Success Rate: 95%**  
-- Focused positioning (Go + backend) → attracts higher-paying clients  
-- Removed noise → stronger signal  
-- Trade-off: less “jack-of-all-tools”, more niche authority (worth it)
+- Short + personality → higher retention  
+- Clear niche (Go backend) → better clients  
+- Trade-off: less detail, but stronger impact
