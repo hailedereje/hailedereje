@@ -1,28 +1,26 @@
 <h1 align="center">Haile Dereje</h1>
-<h3 align="center">Go Backend Engineer • I make servers behave</h3>
+<h3 align="center">Backend-Focused Full Stack Engineer • Go • Distributed Systems • Microservices</h3>
 
 <p align="center">
-Turning coffee ☕ into scalable systems since day 1
+Building scalable backend systems, real-time architectures, and production-grade applications.
 </p>
 
 ---
 
 ### 🚀 What I Do
-- Build **fast, scalable backends (Go)**
-- Design **microservices that don’t cry in production**
-- Real-time systems (sockets, queues, chaos included)
+- Design and build **high-performance backend systems in Go**
+- Architect **microservices with messaging, queues, and event-driven patterns**
+- Develop **real-time systems (sockets, brokers, concurrency-heavy apps)**
+- Ship **production-ready web apps with Next.js & React**
 
 ---
 
-### 🧠 Stack
-`Go` `Next.js` `React` `Node` `.NET` `Django`  
-Microservices • WebSockets • Distributed Systems
+### 💼 Current Work
+- **Game Engine (Go)**  
+  Real-time multiplayer architecture using sockets + message brokers
 
----
-
-### 💼 Now
-- 🎮 Game Engine (real-time, Go)
-- 💰 Fintech Microservices (USA)
+- **Merchant Cash Advance Platform (USA)**  
+  Microservices system (3+ services) handling financial workflows & integrations
 
 ---
 
