@@ -37,10 +37,6 @@ if(codeWorks){
 }
 ```
 ---
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hailedereje&show_icons=true&hide_border=true" /> </p>
-
----
 ### Best Choice + Success Rate: 92%
 
 - Short + personality → higher retention  
